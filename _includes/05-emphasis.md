@@ -1,0 +1,2 @@
+- It's fascinating ✨ for me how a software gives life to a hardware in *Embedded system programming* where there is no operating system
+- From experience I will gain in Web API development using **Python** and my passion for **Embeded Systems** may come developing software for **IoT** devices 
